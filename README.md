@@ -25,4 +25,5 @@
 
     ![4](https://user-images.githubusercontent.com/116808294/204514099-acdd4c6d-dc59-4435-9345-a07365598b2d.jpeg)
 
+3. EXPLICACIÓN DEL PROCEDIMIENTO
     
