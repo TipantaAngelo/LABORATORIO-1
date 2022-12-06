@@ -27,3 +27,16 @@
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
     
+    ![image](https://user-images.githubusercontent.com/116808294/205786451-06065cd0-523b-48f2-80ce-9cc1c0220d37.png)
+
+4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+5. VIDEO
+
+    https://www.youtube.com/watch?v=aUfHY04RSi0&ab_channel=WilliamOmar
+
+6. CONCLUSIONES
+
+    Podemos concluir que al saber manejar todos los elementos podemos crear el led nocturno automático, donde nos podemos dar cuenta que al desactivarle al transistor como tenemos un potenciómetro y la resistencia nos envían una señal positiva lo cual hace que se nos prendan las luces led.
+
+    Es un proyecto muy interesante el cual nos sirvió de mucho para aprender que es y para que sirve un fototransistor su funcionamiento y así fuimos capaces de realizar este proyecto con la satisfacción que lo logramos utilizando nuestro conocimiento de circuitos en series de las resistencias de los potenciómetros y lo pusimos en practica y lo logramos.
