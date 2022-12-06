@@ -40,3 +40,11 @@
     Podemos concluir que al saber manejar todos los elementos podemos crear el led nocturno automático, donde nos podemos dar cuenta que al desactivarle al transistor como tenemos un potenciómetro y la resistencia nos envían una señal positiva lo cual hace que se nos prendan las luces led.
 
     Es un proyecto muy interesante el cual nos sirvió de mucho para aprender que es y para que sirve un fototransistor su funcionamiento y así fuimos capaces de realizar este proyecto con la satisfacción que lo logramos utilizando nuestro conocimiento de circuitos en series de las resistencias de los potenciómetros y lo pusimos en practica y lo logramos.
+    
+7. BIBLIOGRAFIA
+    
+    • Floyd, T. L., Salas, R. N., González, L. M. O., & López, G. P. (2007). Principios de circuitos eléctricos. Pearson Educación.
+    
+    • Nilsson, J. W., Riedel, S. A., Cázares, G. N., & Fernández, A. S. (1995). Circuitos eléctricos. Addison-Wesley.
+    
+    • Hernan Flores. [Androbot TECH] (16/11/2020). TOP 5 Proyectos Electrónicos con Transistores. Youtube. https://www.youtube.com/watch?v=_xvCoOR89o4&ab_channel=AndrobotTECH 
